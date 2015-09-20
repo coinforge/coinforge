@@ -1,5 +1,5 @@
 {
-  "name": "bitcore",
+  "name": "coinforge",
   "version": "0.13.3",
   "dependencies": {
     "bn.js": {

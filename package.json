@@ -1,8 +1,8 @@
 {
-  "name": "bitcore",
-  "version": "0.13.3",
+  "name": "coinforge",
+  "version": "0.0.1",
   "description": "A pure and powerful JavaScript Bitcoin library.",
-  "author": "BitPay <dev@bitpay.com>",
+  "author": "Manuel Araoz <manuelaraoz@gmail.com>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -73,7 +73,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore.git"
+    "url": "https://github.com/coinforge/coinforge.git"
   },
   "browser": {
     "request": "browser-request"
